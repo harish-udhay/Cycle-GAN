@@ -3,10 +3,10 @@
 This repository contains the code for the final project for CS536 - Machine Learning, Spring 2022.
 
 ### Team Members:
-1. Animesh Sharma
+1. Harish Udhayakumar
 2. Karan Parsadani
 3. Jaini Patel
-4. Harish Udhayakumar
+4. Animesh Sharma
 
 ### Contents:
 1. Base CycleGAN
